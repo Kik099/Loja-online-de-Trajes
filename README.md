@@ -1,6 +1,6 @@
 # Loja-online-de-Trajes
 
-A aplicação tem uma base de dados para persistir a informação, term uma interface web em Java Server Faces, usando “entities” e “enterprise java beans”. Esta loja é uma aplicação que permite gerir a partilha de recursos entre uma população.Opções do site:
+A aplicação(TP2.rar) tem uma base de dados para persistir a informação, term uma interface web em Java Server Faces, usando “entities” e “enterprise java beans”. Esta loja é uma aplicação que permite gerir a partilha de recursos entre uma população.Opções do site:
 
 Aparece um menu, onde pede para fazer Login, registar ou entrar no modo visitante(consultar imagem).
 
